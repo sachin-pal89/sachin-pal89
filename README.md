@@ -59,7 +59,7 @@
 <p align="center">
   
 <a href = "https://www.linkedin.com/in/sachin-pal-681bb5205/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
-<a href = "https://twitter.com/Sachinp4152"> <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/> </a>
+<a href = "https://twitter.com/pal_sachin89"> <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/> </a>
 <a href = "https://www.youtube.com/channel/UCjhqYAZ6wKLvgvPHVh9tQFg"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/> </a>
 </p>
 
