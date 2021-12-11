@@ -6,3 +6,5 @@
 - 🤔 I’m willig to learn Android Development
 - 👯 I’m looking to collaborate on some amazing android and ui/ux projects
 - 📫 How to reach me: sachinpal01012003@gmail.com
+
+<img src = "https://github-readme-stats.vercel.app/api?username=sachin-pal89&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000000" >
