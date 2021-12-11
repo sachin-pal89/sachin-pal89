@@ -5,8 +5,10 @@
 
 <br/>
 
-## 🙋‍♂ About Me
+<h1 align="center"> 🙋‍♂️ About Me</h1>
   
+<br/>
+
 - 🔭 I’m currently working on **Inventory Management System.**
 
 - 🌱 I’m currently learning **Data Structure and Algorithm in C++.**
@@ -19,7 +21,9 @@
 
 <br/>
 
-## 💻 Language & Tools
+<h1 align="center"> 💻 Languages & Tools</h1>
+
+<br/>
 
 <p align="center">
   <a href = "https://www.iso.org/standard/74528.html" target = "_blank"> <img src="https://img.icons8.com/color/50/000000/c-programming.png"/> </a>
@@ -40,7 +44,9 @@
     </a>
 </p>
 
-## 📈 GitHub Stats
+<br/>
+
+<h1 align="center"> 📈 GitHub Stats</h1>
 
  <br/>
     <a href="https://github.com/sachin-pal89/github-readme-stats"><img alt="Sachin Pal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sachin-pal89&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -50,15 +56,15 @@
 <br/>
 <br/>
 
-## 👨‍💻 Contributions Graph
+<h1 align="center"> 👨‍💻 Contributions Graph</h1>
 
 <a href="https://github.com/sachin-pal89/github-readme-activity-graph"><img alt="Sachin Pal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sachin-pal89&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
+
+<h1 align="center"> 👯‍♂ Connect with me</h1>
+
 <br/>
-
-## 👯‍♂️ Wanna Connect with me
-
 <p align = "center">
   <a href = "https://www.linkedin.com/in/sachin-pal-681bb5205/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>
   <a href = "https://twitter.com/pal_sachin89" target="_blank"> <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/> </a>
