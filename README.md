@@ -3,9 +3,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachin Pal</h1>
 <h3 align="center">A opportunistic Android Developer.</h3>
 
+<br/>
 
-### 🙋‍♂ About Me
-
+## 🙋‍♂ About Me
+  
 - 🔭 I’m currently working on **Inventory Management System.**
 
 - 🌱 I’m currently learning **Data Structure and Algorithm in C++.**
@@ -15,6 +16,8 @@
 - 👯 I’m looking to collaborate on some amazing **Android and UI/UX projects.**
 
 - 📫 How to reach me: <img src="https://img.icons8.com/color/20/000000/gmail-new.png"/> **sachinpal01012003@gmail.com**
+
+<br/>
 
 ## 💻 Language & Tools
 
@@ -56,12 +59,11 @@
 
 ## 👯‍♂️ Wanna Connect with me
 
-<p align="center">
-  
-<a href = "https://www.linkedin.com/in/sachin-pal-681bb5205/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
-<a href = "https://twitter.com/pal_sachin89"> <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/> </a>
-<a href = "https://www.youtube.com/channel/UCjhqYAZ6wKLvgvPHVh9tQFg"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/> </a>
-</p>
+<p align = "center">
+  <a href = "https://www.linkedin.com/in/sachin-pal-681bb5205/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>
+  <a href = "https://twitter.com/pal_sachin89" target="_blank"> <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/> </a>
+  <a href = "https://www.youtube.com/channel/UCjhqYAZ6wKLvgvPHVh9tQFg" target="_blank"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/> </a>
+ </p>
 
 
 
