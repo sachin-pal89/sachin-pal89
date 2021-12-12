@@ -5,7 +5,7 @@
 
 <br/>
 
-<h1 align="center"> 🙋‍♂️ About Me</h1>
+<h2 align="center"> 🙋‍♂️ About Me</h2>
   
 <br/>
 
@@ -21,7 +21,7 @@
 
 <br/>
 
-<h1 align="center"> 💻 Languages & Tools</h1>
+<h2 align="center"> 💻 Languages & Tools</h2>
 
 <br/>
 
@@ -46,7 +46,7 @@
 
 <br/>
 
-<h1 align="center"> 📈 GitHub Stats</h1>
+<h2 align="center"> 📈 GitHub Stats</h2>
 
  <br/>
     <a href="https://github.com/sachin-pal89/github-readme-stats"><img alt="Sachin Pal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sachin-pal89&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -56,13 +56,13 @@
 <br/>
 <br/>
 
-<h1 align="center"> 👨‍💻 Contributions Graph</h1>
+<h2 align="center"> 👨‍💻 Contributions Graph</h2>
 
 <a href="https://github.com/sachin-pal89/github-readme-activity-graph"><img alt="Sachin Pal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sachin-pal89&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
-<h1 align="center"> 👯‍♂ Connect with me</h1>
+<h2 align="center"> 👯‍♂ Connect with me</h2>
 
 <br/>
 <p align = "center">
