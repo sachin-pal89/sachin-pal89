@@ -17,11 +17,11 @@
 
 - 👯 I’m looking to collaborate on some amazing **Android and UI/UX projects.**
 
-- 📫 How to reach me: <img src="https://img.icons8.com/color/20/000000/gmail-new.png"/> **sachinpal01012003@gmail.com**
+- 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/sachin-pal-681bb5205/)**
 
 <br/>
 
-<h2 align="center"> 💻 Languages & Tools</h2>
+<h2 align="center"> 💻 Languages</h2>
 
 <br/>
 
@@ -29,16 +29,18 @@
   <a href = "https://www.iso.org/standard/74528.html" target = "_blank"> <img src="https://img.icons8.com/color/50/000000/c-programming.png"/> </a>
   <a href = "https://isocpp.org/" target = "_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
   <a href = "https://www.java.com/en/" target = "_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a>
+  <a href = "https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/> </a>
+</p>
+
+<h2 align="center"> 🛠 Tools</h2>
+<br/>
+<p align="center">
   <a href = "https://www.mysql.com/" target = "_blank"> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_vscode_icon_130084.png"/> </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> </a>
   <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a>
 </p>
-
-<br/>
-
-
 
 <br/>
 
