@@ -30,6 +30,7 @@
   <a href = "https://isocpp.org/" target = "_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
   <a href = "https://www.java.com/en/" target = "_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a>
   <a href = "https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/> </a>
+  <a href = "https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-color-tal-revivo.png"/> </a>
 </p>
 
 <h2 align="center"> 🛠 Tools</h2>
